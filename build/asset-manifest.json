@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fec5e2c7.css",
+    "main.js": "/static/js/main.cc406a54.js",
+    "static/media/project-1.jpg": "/static/media/project-1.c9df6d3f7dee33095c1e.jpg",
+    "static/media/bg-2.png": "/static/media/bg-2.386ade4ca783afff185e.png",
+    "static/media/plan-1.jpg": "/static/media/plan-1.c6bd78e8e7f0884703bc.jpg",
+    "static/media/project-bg.png": "/static/media/project-bg.86d0cbdd26ee6faa74b2.png",
+    "static/media/bg.jpg": "/static/media/bg.f4ea0b0987681ec10ce7.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.d3a25c1726366132b499.jpg",
+    "static/media/form-bg.jpg": "/static/media/form-bg.0f82fea013d3c4892149.jpg",
+    "static/media/benifits-1.jpg": "/static/media/benifits-1.27d5b00e37c2b7c4dc8c.jpg",
+    "static/media/about-bg.jpg": "/static/media/about-bg.bed25846268e09ad8f50.jpg",
+    "static/media/active-logo.png": "/static/media/active-logo.961a34f11f79b52a1a7a.png",
+    "static/media/logo.png": "/static/media/logo.49afc83c7298d0e17858.png",
+    "index.html": "/index.html",
+    "main.fec5e2c7.css.map": "/static/css/main.fec5e2c7.css.map",
+    "main.cc406a54.js.map": "/static/js/main.cc406a54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec5e2c7.css",
+    "static/js/main.cc406a54.js"
+  ]
+}
